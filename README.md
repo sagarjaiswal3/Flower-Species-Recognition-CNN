@@ -135,7 +135,7 @@ Confidence: 90%+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sagarjaiswal3/flower-species-recognition-cnn.git
+git clone https://github.com/sagarjaiswal3/Flower-Species-Recognition-CNN.git
 cd flower-species-recognition-cnn
 ```
 
